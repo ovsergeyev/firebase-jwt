@@ -1,9 +1,9 @@
 <script setup>
-
+import Button from 'primevue/button';
 </script>
 
 <template>
   <main>
-    hello vue3
+    <Button label="Submit" />
   </main>
 </template>
